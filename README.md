@@ -6,5 +6,6 @@ Creating a new branch is quick and simple
 no fast forward commit
 stash test
 
-cooperate to developping sth
+A: cooperate to developping sth
+
 
