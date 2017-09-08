@@ -8,3 +8,5 @@ stash test
 
 cooperate to developping sth
 
+B: add usr/bin/env
+
