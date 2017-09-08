@@ -7,5 +7,5 @@ no fast forward commit
 stash test
 
 A: cooperate to developping sth
-
+A:add coding utf-8
 
