@@ -9,3 +9,5 @@ stash test
 A: cooperate to developping sth
 A:add coding utf-8
 
+B: add usr/bin/env
+
